@@ -1,0 +1,51 @@
+#firstdiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#imgstan{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#firstlabel{
+    font-size: 50px;
+    color: darkmagenta;
+}
+#liecountry{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#realdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+#liebutton{
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+}
+#realbutton{
+    border-radius: 30px;
+    background-color: red;
+    color: yellow;
+}
+#standiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#stanlabel{
+    font-size: 35px;
+}
+#hardnext4{
+    text-decoration: none; 
+    border-radius: 50px;
+    border: solid white;
+    background-color: white;
+    margin-left: 1150px;
+    margin-top: 70px;
+}

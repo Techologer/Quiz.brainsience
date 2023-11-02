@@ -1,0 +1,53 @@
+#kenyadiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ganadiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+#realcountry{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#divkenya{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#countryhard{
+    font-size: 50px;
+    color: blue;
+}
+#kenyabutton{
+    border-radius: 30px;
+    border: solid red;
+    background-color: green;
+    color: black;
+}
+#ganabutton{
+     border-radius: 30px;
+     border: solid black;
+     background-color: green;
+     color: yellow;
+}
+#statuskenya{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+#statuskenya1{
+    font-size: 35px;
+}
+#hardnext1{
+    text-decoration: none; 
+    border-radius: 50px;
+    border: solid white;
+    background-color: white;
+    margin-left: 1150px;
+    margin-top: 70px;
+}

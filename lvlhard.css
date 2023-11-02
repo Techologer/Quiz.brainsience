@@ -1,0 +1,53 @@
+#harddiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Tanzania{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#firstahardlabel{
+    font-size: 50px;
+    color: chocolate;
+}
+#tnz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#divmarocco{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px  
+}
+#Tanzaniabutton{
+    border-radius: 30px;
+    border: solid green;
+    background-color: yellow;
+    color: black;
+}
+#Morocco{
+    border-radius: 30px;
+    border: solid red;
+    background-color: green;
+    color: black;
+}
+#statusdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+#status{
+    font-size: 35px;
+}
+#hardnext{
+    text-decoration: none; 
+    border-radius: 50px;
+    border: solid white;
+    background-color: white;
+    margin-left: 1150px;
+    margin-top: 70px;
+}

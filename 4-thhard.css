@@ -1,0 +1,52 @@
+#divlies{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#Guessing{
+    font-size: 50px;
+    color: black;
+    background-color: red;
+}
+#map{
+    display: flex;
+    justify-content: center;
+    text-align: center;   
+}
+#lies{
+    display: flex;
+    justify-content: center;
+    text-align: center;   
+}
+#realcountry{
+    display: flex;
+    justify-content: center;
+    text-align: center;   
+    margin-top: 200px;
+}
+#liesbutton{
+    border-radius: 30px;
+    background-color: black;
+    color: green;
+}
+#realcountrybutton{
+    border-radius: 30px;
+    background-color: green;
+    color: yellow;
+}
+#standiv2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#stanlabel2{
+    font-size: 35px;
+}
+#hardnext5{
+    text-decoration: none; 
+    border-radius: 50px;
+    border: solid white;
+    background-color: white;
+    margin-left: 1150px;
+    margin-top: 30px;
+}

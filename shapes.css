@@ -1,0 +1,37 @@
+#ebutton{
+    background-color: rgb(142, 142, 236);   
+    border-radius: 30px; 
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+#Easy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#mediumbutton{
+    background-color: rgb(142, 142, 236);   
+    border-radius: 30px; 
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+#medium{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    margin-top: 250px;
+}
+body{
+    background-color: red;
+}

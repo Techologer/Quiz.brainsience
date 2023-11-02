@@ -1,0 +1,54 @@
+#lasthard{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#lastpicture{
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+}
+#lastliebuttondiv{
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+}
+#lastrealbuttondiv{
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+    margin-top: 200px;
+}
+#lasthardlabel{
+    font-size: 50px;
+    background-color: blue;
+    color: red;
+}
+#lastliebutton{
+    border-radius: 30px;
+    background-color: rgb(61, 120, 245);
+    color: white;
+}
+#lastrealbutton{
+    border-radius: 30px;
+    background-color: red;
+    color: blue;
+}
+#lastharddiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;    
+}
+#lasthardlabelforever{
+    font-size: 35px;
+}
+#hardtostartbutton{
+      text-decoration: none;
+      color: white;
+      background-color: blue;
+      border-radius: 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
